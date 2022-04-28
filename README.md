@@ -1,7 +1,6 @@
-- 🖐🏾 Hi, I’m @Mermaids-Only
-- 👀 I’m interested in software development and website development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+-🧜🏾‍♀️ Hi, I’m @Mermaids-Only
+- 👩🏾‍💻 Female Technologist
+- I’m interested in software and website development
 - 📫 How to reach me: elo@eloogbokor.com
 
 <!---
